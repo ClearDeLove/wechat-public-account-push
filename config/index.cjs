@@ -287,9 +287,9 @@ USE_PASSAGE: 'push-deer',
    * */
   
   // 默认所在省份, USERS 中没填的话, 会默认拿这里的省份
-  PROVINCE: '咸阳',
+  PROVINCE: '四川',
   // 默认所在城市, USERS 中没填的话, 会默认拿这里的城市
-  CITY: '长武',
+  CITY: '宜宾',
 
   /** 重要节日相关 */
 
